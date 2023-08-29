@@ -3,7 +3,7 @@ Una pequeña actualización del bot que agenda turnos para realizar pedidos en P
 ![Ejemplo de Imagen](./Vista_Previa/1.jpg)
 ## Actualizaciones v1.10:
 - Se reparo algunos errores de flujo respecto al choque entre cuentas al tomar un mismo horario
-- Se reparo un bug al situarse entre semanas, ahora el bot recorre el mes de forma mas natural y eficiente
+- Se reparó un bug al situarse entre semanas, ahora el bot recorre el mes de forma mas natural y eficiente
 - Se implementó la opcion de utilizar proxys en lugar de VPN
 - Todas las anteriores
 ## Nuevas Funcionalidades v1.7:
