@@ -1,7 +1,7 @@
 # Bot_Auto_Agenda_v1.3-Interfaz_Gráfica
 Una pequeña actualización del bot que agenda turnos para realizar pedidos en PedidosYa.
 ![Ejemplo de Imagen](./Vista_Previa/1.jpg)
-## Actualizaciones v1.10:
+## Actualizaciones v1.11:
 - Se reparó algunos errores de flujo respecto al choque entre cuentas al tomar un mismo horario
 - Se implementó un diccionario de zonas, haciendo que la selección de zonas sea mas eficiente
 - Se reparó un bug al situarse entre semanas, ahora el bot recorre el mes de forma mas natural y eficiente
